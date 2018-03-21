@@ -13,3 +13,6 @@ object RecursividadDeCola extends App {
   print(s"El factorial de 12 es ${factorial(15)}")
 
 }
+
+
+
